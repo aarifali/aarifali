@@ -1,3 +1,4 @@
+<html>
 Welcome to my GitHub profile! I am Aarif Ali, and this is where I showcase my projects, contributions, and interests in the world of technology. I am passionate about .
 
 Projects
@@ -6,7 +7,7 @@ Here are some notable projects I have worked on:
 
 Codebuitup infotech solution - [Brief description of the project and its significance]
 
-For a complete list of my projects, please visit my portfolio website or explore the repositories below.
+For a complete list of my projects, please visit my portfolio <a href="[LinkedIn profile URL]"></a> or explore the repositories below.
 
 Skills
 
@@ -19,3 +20,4 @@ Team Leadership: Adept at leading cross-functional teams, fostering collaboratio
 Quality Assurance: Skilled in implementing quality assurance processes and ensuring adherence to best practices and industry standards.
 ...
 I am constantly learning and expanding my skillset. I enjoy exploring new technologies and staying up to date with the latest trends in the industry.
+</html>
