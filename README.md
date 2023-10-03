@@ -5,7 +5,7 @@ Projects
 
 Here are some notable projects I have worked on:
 
-Codebuitup infotech solution - [Brief description of the project and its significance]
+Codebuitup infotech solution 
 
 For a complete list of my projects, please visit my portfolio <a href="[LinkedIn profile URL]"></a> or explore the repositories below.
 
